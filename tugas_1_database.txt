@@ -1,0 +1,23 @@
+Tugas_1_Database
+1.	Database adalah sebuah perkumpulan/basis data yang terorganisir dan dikelola berdasarkan ketentuan tertentu yang saling berhubungan sehingga mudah dalam pengelolaannya
+2.	RDBMS ( Relational Database Management System)
+3.	5 Model penyimpanan Database model: 
+	•	Flat Model 
+	•	Hierarchical Model 
+	•	Network Model 
+	•	Relational Model  
+	•	Object Oriented Model 
+4.	Aplikasi database selain Mysql : 
+	•	Oracle
+	•	Microsoft Access
+	•	PostgreSQL 
+	•	MaridDB
+	•	Microsoft SQL Server
+•	Sybase
+5.	Keunggulan Mysql sebagai RDBMS : 
+	•	Speed  
+	•	User Friendly
+	•	Multiuser Support
+	•	Wide Application Support
+	•	Scalability
+
